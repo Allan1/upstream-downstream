@@ -16,7 +16,7 @@ Etapa de definição da solução, delimitando claramente o escopo a ser impleme
 
 #### Split
 
-Etapa de quebra da solução a ser implementada em pacotes menores de valor, como histórias de usuário. Histórias devem atender as definições DoR (Definition of Ready) e DoD (Definition of Done) acordadas pelo time. 
+Etapa de quebra da solução a ser implementada em pacotes menores de valor, como histórias de usuário. Histórias devem atender as definições DoR (Definition of Ready) e DoD (Definition of Done) acordadas pelo time. Recomendado o uso da matrix INVEST (Independent, Negotiable, Valuable, Estimable, Small, Testable) como referência para a definição das histórias.
 
 ## Downstream
 
