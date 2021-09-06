@@ -26,7 +26,7 @@ Estágio de refinamento técnico, organização e execução do trabalho para en
 
 #### Refining
 
-Sessão de definição da arquitetura macro a ser implementada ou ajustada, podendo derivar em documentação técnica, enriquecimento técnico das histórias e quebra em tarefas menores, quando apropriado. Recomendado que as tarefas tenham tamanho uniforme (esforço + complexidade) para permitir maior previsibilidade de entrega. 
+Sessão de definição da arquitetura macro a ser implementada ou ajustada, podendo derivar em documentação técnica, enriquecimento técnico das histórias e quebra em tarefas menores, quando apropriado. Recomendado que as tarefas tenham tamanho uniforme (esforço + complexidade) para permitir maior previsibilidade de entrega. Dentre os possíveis artefatos técnicos dessa sessão, podemos citar o uso do documento RFC (Request For Comments), para designs que o time julgar pertinente.
 
 #### Planning
 
